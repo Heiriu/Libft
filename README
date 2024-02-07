@@ -1,1 +1,9 @@
-libft
+ensemble de ma librairie utilise a 42:
+
+liste de fonction:
+
+atoi: convertis un str en int
+bzero: alloue un bloc memoire et le remplis de 0
+calloc: alloue un tableau de n * m elements
+converter: convertis un int en une base donne
+itoa: convertis un int en str
